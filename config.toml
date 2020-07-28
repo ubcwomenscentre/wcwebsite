@@ -1,0 +1,109 @@
+baseURL       = "/"
+languageCode  = "en-us"
+title         = "UBC Women's Centre | AMS Resource Group"
+theme         = "roxo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Resources"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Events"
+    url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "COVID-19"
+    url     = "/blog/covid/"
+    weight  = 5
+
+ 
+  [[menu.nav]]
+    name    = "Contact Us"
+    url     = "contact"
+    weight  = 6
+
+
+
+# Site Params
+[params]
+  logo = "logo.png"
+  dateFormat = "26 FEB 1994"
+  description = "UBC Women's Centre | AMS Resource Group"
+  author = "The UBC Women's Centre"
+  googleAnalitycsID = ""
+  formspreeFormUrl  = "https://formspree.io/mknqkezg"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Contact Us"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "The UBC Women's Centre"
+    tagline               = ""
+    primary_button        = "Get Resources"
+    primary_button_url    = "portfolio"
+    secondary_button      = "Contact Us"
+    secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = "Resources"
+    subtitle  = "The Centre strives to provide a space for community-building, discussion, sharing, and resistance. We offer couches, brochures (with information about resources), event posters, menstrual products, safer sex products, pregnancy tests, a library of feminist literature, microwave, food, a kettle, and more."
+
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "location"
+      address = "Room 2114 - AMS Nest"
+      phone   = "second floor beside Hatch, if the nest is open, the centre is open."
+      email   = "ubcwomenscentre@gmail.com"
+
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "sitemap"
+        [[params.footer.sitemap.link]]
+          name = "About"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Resources"
+          url  = "portfolio"
+	[[params.footer.sitemap.link]]
+          name = "Events"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+
+      # Footer Social Media
+      [params.footer.social]
+        title   = "social media"
+        [[params.footer.social.link]]
+          name = "Facebook"
+          url  = "https://www.facebook.com/ubcwomenscentre/"
+        [[params.footer.social.link]]
+          name = "Instagram"
+          url  = "https://www.instagram.com/ubcwomenscentre/"
+
+      # Footer Service
+      [params.footer.service]
+        title       = "acknowledgement"
+        description = "The UBC Women's Centre organizes on the traditional, unceded, ancestral, and unceded lands of the xʷməθkʷəy̓ əm (Musqueam), Skwxwú7mesh (Squamish), and Tsleil-Waututh Nations. <br>"
