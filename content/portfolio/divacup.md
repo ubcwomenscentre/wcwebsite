@@ -4,7 +4,7 @@ date: 2020-01-01
 type: portfolio
 image: "images/projects/pad.png"
 category: ["MENSTRUATION"]
-project_images: ["images/projects/diva.png", "images/projects/pad.png"]
+project_images: ["images/projects/pad.png"]
 ---
 
 ## Office Hours
