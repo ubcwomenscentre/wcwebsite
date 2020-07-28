@@ -32,19 +32,19 @@ Email: [send me this info.com](mailto:)
 
 
 #### CASSANDRA
-Direct: (604) xxxxx or another way to contact \
-Email: [send me this info.com](mailto:)
+Direct: (604) 230 2031  \
+Email: [cassyvance@me.com](mailto:cassyvance@me.com)
 
 \ 
 
 
 | Day       | Hours              |
 | --------- | ------------------ |
-| Monday    | - |
-| Tuesday   | - |
-| Wednesday | - |
-| Thursday  | - |
-| Friday    | 2:00pm - 4:00pm    |
+| Monday    | 9:00am - 5:00pm    |
+| Tuesday   | 9:00am - 5:00pm    |
+| Wednesday | 9:00am - 5:00pm    |
+| Thursday  | 9:00am - 5:00pm    |
+| Friday    | 9:00am - 5:00pm    |
 | Saturday  | - |
 | Sunday    | - |
 
