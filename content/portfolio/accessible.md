@@ -1,5 +1,5 @@
 ---
-title: "Accessible Information"
+title: "Accessible Website Information"
 date: 2018-01-01
 type: portfolio
 image: "images/projects/accessible.png"
