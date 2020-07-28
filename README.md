@@ -4,4 +4,5 @@ A website for the UBC Women's Centre, created using [Hugo](https://gohugo.io/) a
 
 [https://ubcwomenscentre.netlify.app/](https://ubcwomenscentre.netlify.app/)
 
-![screenshot of website](https://github.com/lexahl/wcwebsite/blob/c84ad8f287be7c86349b6d7a1ede960f40dcbb89/static/Screen%20Shot%202020-07-28%20at%2012.12.44%20PM.png?raw=true)
+
+[![screenshot of the website](https://github.com/lexahl/wcwebsite/blob/c84ad8f287be7c86349b6d7a1ede960f40dcbb89/static/Screen%20Shot%202020-07-28%20at%2012.12.44%20PM.png?raw=true)](https://ubcwomenscentre.netlify.app/)
