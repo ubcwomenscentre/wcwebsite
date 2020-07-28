@@ -1,34 +1,53 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1671.5">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 14.9px 0.0px; line-height: 22.0px; font: 18.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 15.9px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
-    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 9.9px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; background-color: #ffffff; background-color: rgba(255, 255, 255, 0.9); min-height: 12.0px}
-    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 12.0px}
-    span.s1 {font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{{ define "main" }}</span></p>
-<p class="p2"><span class="s1"><b>{{ .Params.heading | safeHTML }}<span class="Apple-converted-space"> </span></b></span></p>
-<p class="p3"><span class="s1"><b>{{ .Params.form_heading }}</b></span></p>
-<p class="p4"><br></p>
-<p class="p5"><span class="s1">Full Name</span></p>
-<p class="p6"><span class="s1"></span><br></p>
-<p class="p5"><span class="s1">Email Address</span></p>
-<p class="p6"><span class="s1"></span><br></p>
-<p class="p5"><span class="s1">Message</span></p>
-<p class="p7"><span class="s1"></span><br></p>
-<p class="p7"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ end }}</span></p>
-</body>
-</html>
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ .Params.heading | safeHTML }}
+        </h1>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ .Params.form_heading }}</h4>
+          <form id="contact-form" action="{{ .Site.Params.formspreeFormUrl }}" method="POST">
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="First Name">
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Last Name">
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email">
+              </div>
+              <div class="col-lg-6">
+                <div class="select-wrapper">
+                  <select class="form-control" id="projectType" name="project-type">
+                    <option value="" selected disabled hidden>Project Type</option>
+                    <option value="gd">Graphics Design</option>
+                    <option value="wb">Web Design</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="About the Project"></textarea>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn btn-primary" id="contact-form-button">
+                  <span class="btn-area">
+                    <span data-text="Send Message">
+                      Send Message
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <p id="contact-form-status"></p>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
