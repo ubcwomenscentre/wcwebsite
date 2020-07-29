@@ -8,7 +8,7 @@ project_images: ["images/projects/pad.png"]
 ---
 
 ## Office Hours
-We offer discounted [diva cups](https://divacup.com/) and [luna pads (period aisle)](https://periodaisle.com/) to reduce period poverty for the UBC community and beyond. Office hours are usually at the Nest, but will not take place this year due to the pandemic. However, these products are still available, contact one of us to find out more. 
+We offer discounted [diva cups](https://divacup.com/) and [luna pads (period aisle)](https://periodaisle.com/) to reduce period poverty in the UBC community and beyond. Office hours are usually at the Nest, but will not take place this year due to the pandemic. However, these products are still available, contact one of us to find out more. 
 
 
 #### SOFIA
