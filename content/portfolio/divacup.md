@@ -12,24 +12,23 @@ We offer discounted [diva cups](https://divacup.com/) and [luna pads (period ais
 
 
 #### SOFIA
-Direct: (604) xxxxx or another way to contact or link to zoom and u stay there for the office hour?? \
-Email: [send me this info.com](mailto:)
+Direct: (778) 814 1904 \
+Email: [sofia.suarez1@gmail.com](mailto:sofia.suarez1@gmail.com)
 \ 
 
 
 
 | Day       | Hours              |
 | --------- | ------------------ |
-| Monday    | 2:00pm - 4:00pm    |
-| Tuesday   | - |
-| Wednesday | - |
-| Thursday  | - |
-| Friday    | - |
-| Saturday  | - |
-| Sunday    | - |
-
+| Monday    | 9:00am - 5:00pm    |
+| Tuesday   | 9:00am - 5:00pm    |
+| Wednesday | 9:00am - 5:00pm    |
+| Thursday  | 9:00am - 5:00pm    |
+| Friday    | 9:00am - 5:00pm    |
+| Saturday  | 9:00am - 5:00pm    |
+| Sunday    | 9:00am - 5:00pm    |
 \
-
+\
 
 #### CASSANDRA
 Direct: (604) 230 2031  \
