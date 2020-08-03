@@ -1,10 +1,13 @@
 ---
 title: "COVID-19"
 date: 2020-03-15
-image: images/blog/covid.jpg
-feature_image: images/blog/covid2.jpg
+image: images/blog/cover.png
+feature_image: images/blog/covid.jpg
 author: the UBC Women's Centre
 ---
+
+[Text on page for screen readers](/accessiblecovid.txt)
+
 Due to the nature of the situation, we have decided to cancel all events for the remainder of 2020, as well as our [Divacups & Lunapads office hours](/portfolio/divacup/). We are trying to restock resources as often as we can, but we anticipate being unable to do so on a regular basis. 
 
 The space will still be open for use so long as the Nest is operating, however we discourage any folks who feel sick from using the space and encourage them to follow Canadian Health guidelines. If you are using the space, please remain cognizant of the importance of social distancing. 

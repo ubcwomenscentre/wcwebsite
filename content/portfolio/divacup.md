@@ -1,14 +1,15 @@
 ---
-title: "Diva Cups/Luna Pads"
+title: "Period Products"
 date: 2020-01-01
 type: portfolio
 image: "images/projects/pad.png"
 category: ["MENSTRUATION"]
-project_images: ["images/projects/pad.png"]
 ---
 
+[Text on page for screen readers](/accessibleperiodproducts.txt)
+
 ## Office Hours
-We offer discounted [diva cups](https://divacup.com/) and [luna pads (period aisle)](https://periodaisle.com/) to reduce period poverty in the UBC community and beyond. Office hours are usually at the Nest, but will not take place this year due to the pandemic. However, these products are still available, contact one of us to find out more. 
+We offer free period products, discounted [diva cups](https://divacup.com/), and [luna pads (period aisle)](https://periodaisle.com/) to reduce period poverty in the UBC community and beyond. Office hours are usually at the Nest, but will not take place this year due to the pandemic. However, menstrual products are still available, contact one of us to find out more. 
 
 
 #### SOFIA

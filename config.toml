@@ -66,15 +66,14 @@ summarylength = 25
   [params.portfolio]
     enable    = true
     title     = "Resources"
-    subtitle  = "The Centre strives to provide a space for community-building, discussion, sharing, and resistance. We offer couches, brochures (with information about resources), event posters, menstrual products, safer sex products, pregnancy tests, a library of feminist literature, microwave, food, a kettle, and more."
+    subtitle  = "The UBC Women's Centre strives to provide a space for community-building, discussion, sharing, and resistance. We offer a safe space on campus with couches, brochures (with information about resources), event posters, menstrual products, safer sex products, pregnancy tests, a library of feminist literature, microwave, food, a kettle, and more."
 
 
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "location"
-      address = "Room 2114 - AMS Nest"
-      phone   = "second floor beside Hatch, if the nest is open, the centre is open."
+      address = "Room 2114 - AMS Nest, second floor beside Hatch, if the nest is open, the centre is open."
       email   = "ubcwomenscentre@gmail.com"
 
       # Footer Sitemap
