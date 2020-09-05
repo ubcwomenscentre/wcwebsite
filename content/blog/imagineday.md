@@ -17,7 +17,7 @@ You're welcome to explore the booth information at your own pace beginning on Se
 
 ### what?
 
-[![Imagine Day 2020 Video](http://img.youtube.com/vi/L5ssGJ-PZ-U/0.jpg)](https://www.youtube.com/watch?v=L5ssGJ-PZ-U)
+[![Imagine Day 2020 Video](https://img.youtube.com/vi/L5ssGJ-PZ-U/0.jpg)](https://www.youtube.com/watch?v=L5ssGJ-PZ-U)
 
 
 
