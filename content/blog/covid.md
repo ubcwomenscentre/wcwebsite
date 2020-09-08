@@ -1,7 +1,7 @@
 ---
 title: "COVID-19"
 date: 2020-03-15
-image: images/blog/cover.png
+image: images/blog/covid.jpg
 feature_image: images/blog/covid.jpg
 author: the UBC Women's Centre
 ---

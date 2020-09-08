@@ -1,7 +1,7 @@
 ---
 title: "Imagine Day 2020"
 date: 2020-09-02
-image: images/blog/cover.png
+image: images/blog/imagineday.png
 feature_image: images/blog/small.jpg
 author: the UBC Women's Centre
 ---
