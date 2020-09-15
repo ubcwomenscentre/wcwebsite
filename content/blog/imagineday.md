@@ -6,6 +6,9 @@ feature_image: images/blog/small.jpg
 author: the UBC Women's Centre
 ---
 
+[Text on page for screen readers](/imagineday2020.txt)
+
+
 ### where?
 Online! Virtually interact with over 300 student groups and services to explore the many opportunities and experiences available to you at UBC. This event is hosted on **CampusBase** and **zoom**, and you'll find many AMS clubs at the event!
 
