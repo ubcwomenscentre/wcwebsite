@@ -20,7 +20,7 @@ From Monday, September 21st 8:00 AM PST to Friday, September 25th 7:00 PM PST al
 
 ### what?
 
-[![Clubs Day 2020 Video](https://www.youtube.com/watch?v=7tbJ3iXTxog/0.jpg)](https://www.youtube.com/watch?v=7tbJ3iXTxog)
+[![Clubs Day 2020 Video](https://img.youtube.com/vi/7tbJ3iXTxog/0.jpg)](https://www.youtube.com/watch?v=7tbJ3iXTxog)
 
 
 If you have any questions or concerns, please [contact us](/contact).
