@@ -18,5 +18,9 @@ Online! This event is hosted on CampusBase and zoom, and you’ll find many club
 From Monday, September 21st 8:00 AM PST to Friday, September 25th 7:00 PM PST all students will be able to join our virtual Clubs Days and check our virtual booths! On Wednesday 23rd, from 11:00 AM-1:00 PM PST and from 8:00-10:00 PM PST, we’ll have the Clubs Days Interactive Virtual Event on zoom to connect with you!
 
 
+### what?
+
+[![Clubs Day 2020 Video](https://www.youtube.com/watch?v=7tbJ3iXTxog/0.jpg)](https://www.youtube.com/watch?v=7tbJ3iXTxog)
+
 
 If you have any questions or concerns, please [contact us](/contact).
