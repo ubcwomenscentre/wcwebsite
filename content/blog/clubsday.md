@@ -9,7 +9,7 @@ author: the UBC Women's Centre
 [Text on page for screen readers](/accessibleclubsday2020.txt)
 
 ### get involved with us!! 
-Missed out on visit us on Imagine Day? Meet us on Clubs day!!
+Missed out on visiting us on Imagine Day? Meet us on Clubs day!!
 
 ### where?
 Online! This event is hosted on CampusBase and zoom, and you’ll find many clubs at the event! The video conferencing rooms will be active from 2:00pm-6:00pm PST and from 8:00-10:00 PM PST on Wednesday, September 23rd and accessible through a link on [CampusBase](http://cglink.me/v140).
