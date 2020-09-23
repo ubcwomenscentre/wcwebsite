@@ -10,7 +10,7 @@ author: the UBC Women's Centre
 
 ## JOIN US ONLINE MONDAY, SEPTEMBER 28TH FOR SOCIALIZING, GAMES, CRAFTS, AND MORE!!
 
-Join us for a celebration to kick off the second semester ♥ This community-building event is a great opportunity to learn about the space, meet new friends, and find ways to get involved with the Centre!! Help us make radical art that can be put up and featured in the space once the centre opens again - part of our tradition of using art as a form of resistance and healing. Most importantly, join us on zoom to meet our community members and make new friends, in addition to finding ways to get involved with our activism!
+Join us for a celebration to kick off the first semester ♥ This community-building event is a great opportunity to learn about the space, meet new friends, and find ways to get involved with the Centre!! Help us make radical art that can be put up and featured in the space once the centre opens again - part of our tradition of using art as a form of resistance and healing. Most importantly, join us on zoom to meet our community members and make new friends, in addition to finding ways to get involved with our activism!
 
 ---
 
