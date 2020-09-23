@@ -1,8 +1,8 @@
 ---
 title: "Virtual Housewarming 2020"
 date: 2020-09-22
-image: images/blog/undraw_Online_party_re_7t6g.png
-feature_image: images/blog/small.jpg
+image: images/blog/housewarming2020.png
+feature_image: images/blog/housewarming2020.png
 author: the UBC Women's Centre
 ---
 
