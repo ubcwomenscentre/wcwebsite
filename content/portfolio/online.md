@@ -43,7 +43,7 @@ Connect with us online! \
 ### Health Resources
 - [UBC Student Health Service](http://www.students.ubc.ca/livewelllearnwell/visit-a-doctor/about-student-health-service/)
 - [The UBC Wellness Centre](http://www.students.ubc.ca/livewelllearnwell/explore-wellness/wellness-centre/)
--[Transgender Health Program](Transgender Health Program)
+- [Transgender Care BC](http://www.phsa.ca/transcarebc/)
 
 
 If you need any support feel free to send us a message and we will try our best to provide you with information and resources. See more links [here](https://amssasc.ca/resources/).
