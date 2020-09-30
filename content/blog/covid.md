@@ -14,9 +14,9 @@ Due to the nature of the situation, we have decided to cancel all in-person even
 
 
 ### PLEASE DO NOT ENTER IF YOU: 
-  ### - Have a fever, cough, sore throat, runny nose, or shortness of breath 
-  ### - Are a close contact of a person who tested positive for COVID-19. 
-  ### All other visitors, please wash your hands, or clean them with hand sanitizer before and after your visit.
+### - Have a fever, cough, sore throat, runny nose, or shortness of breath 
+### - Are a close contact of a person who tested positive for COVID-19. 
+### All other visitors, please wash your hands, or clean them with hand sanitizer before and after your visit.
 
 ### Masks are mandatory. 
 ### Please practice physical distancing.
