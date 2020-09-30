@@ -73,7 +73,7 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "location"
-      address = "Room 2114 - AMS Nest, second floor beside Hatch, currently closed due to the covid-19 pandemic"
+      address = "Room 2114 - AMS Nest, second floor beside Hatch, 2 people are allowed in the space at a time, masks are mandatory"
       email   = "ubcwomenscentre@gmail.com"
 
       # Footer Sitemap
