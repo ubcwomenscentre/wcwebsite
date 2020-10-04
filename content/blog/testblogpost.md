@@ -11,9 +11,5 @@ author: the Author's name
 
 sample text
 
-# Header 1 
-## Header 2 
 
-<b> bold </b> 
-<it> italics </it>
 
